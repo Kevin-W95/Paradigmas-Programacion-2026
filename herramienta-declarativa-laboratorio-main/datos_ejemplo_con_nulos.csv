@@ -1,0 +1,8 @@
+id,nombre,edad,salario,departamento
+1,Ana,28,4500.50,Ventas
+2,Juan,35,5200.00,IT
+3,Maria,,6100.75,Ventas
+4,Pedro,42,ERR,RRHH
+5,Lucia,31,4800.00,IT
+6,Carlos, ,4900.00,
+

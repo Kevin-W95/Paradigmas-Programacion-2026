@@ -1,0 +1,6 @@
+id,nombre,edad,salario,codigo_dept
+1,Ana,28,4500.50,DEP01
+2,Juan,35,5200.00,DEP02
+3,Maria,N/A,6100.75,DEP01
+4,Pedro,42,ERR,DEP03-A
+5,Lucia,31,4800.00,DEP02
